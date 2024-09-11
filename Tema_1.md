@@ -47,7 +47,8 @@
 
 ## 4 Подготовка файлов
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/addStatusCommit.png)
+![image](https://github.com/user-attachments/assets/f996e9e1-5236-4ad5-9be9-eac3c17f0c48)
+
 
 ### Выводы
 
@@ -55,8 +56,8 @@
 
 ## 5 Фиксация изменений
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/addStatusCommit.png)
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitLog.png)
+![image](https://github.com/user-attachments/assets/debd975c-7f87-4e0b-9989-2847ce9972c0)
+
 
 ### Выводы
 
@@ -64,7 +65,8 @@
 
 ## 6 Подключение к удаленному репозиторию
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/remote.png)
+![image](https://github.com/user-attachments/assets/7c585a3a-efe2-414c-8d3f-186bfb674cb5)
+
 
 ### Выводы
 
@@ -72,7 +74,7 @@
 
 ## 7 Ветвление
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/merge.png)
+![image](https://github.com/user-attachments/assets/ac95a00d-8136-4c86-9fa9-5a4e7400917a)
 
 ### Выводы
 
@@ -80,7 +82,8 @@
 
 ## 8 Особенности применения "Фетч"
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/fetch.png)
+![image](https://github.com/user-attachments/assets/09d86c98-7e0d-470d-a950-78fa9f312be7)
+
 
 ### Выводы
 
