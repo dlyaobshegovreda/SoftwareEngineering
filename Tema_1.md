@@ -100,7 +100,7 @@
 
 ## 10 Отслеживание изменений в коммитах
 
-![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![image](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
 
 ### Выводы
 
@@ -108,7 +108,7 @@
 
 ## 11 Возвращение файла к предыдущему (определённому) состоянию
 
-![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![image](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
 
 ### Выводы
 
@@ -116,7 +116,7 @@
 
 ## 12 Возвращение к предыдущему коммиту
 
-![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![image](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
 
 ### Выводы
 
@@ -124,13 +124,13 @@
 
 ## 13 Исправление коммита
 
-![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/edit.png)
+![image](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/edit.png)
 
 ### Выводы
 
 ## 14 Разрешение конфликтов при слиянии
 
-![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/merge.png)
+![image](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/merge.png)
 
 ### Выводы
 
@@ -138,7 +138,7 @@
 
 ## 15 Настройка gitignore
 
-![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitignore.png)
+![image](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitignore.png)
 
 ### Выводы
 
