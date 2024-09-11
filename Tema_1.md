@@ -91,8 +91,8 @@
 
 ## 9 Удаление файлов, веток, локальных и удалённых репозиториев
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/deleteBreanch.png)
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/pushDelete.png)
+![image](https://github.com/user-attachments/assets/d9c6bf26-c99f-49fd-9abe-7c059649f9fa)
+
 
 ### Выводы
 
@@ -100,7 +100,7 @@
 
 ## 10 Отслеживание изменений в коммитах
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
 
 ### Выводы
 
@@ -108,7 +108,7 @@
 
 ## 11 Возвращение файла к предыдущему (определённому) состоянию
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
 
 ### Выводы
 
@@ -116,7 +116,7 @@
 
 ## 12 Возвращение к предыдущему коммиту
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
 
 ### Выводы
 
@@ -124,13 +124,13 @@
 
 ## 13 Исправление коммита
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/edit.png)
+![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/edit.png)
 
 ### Выводы
 
 ## 14 Разрешение конфликтов при слиянии
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/merge.png)
+![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/merge.png)
 
 ### Выводы
 
@@ -138,7 +138,7 @@
 
 ## 15 Настройка gitignore
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitignore.png)
+![Меню](https://github.com/dlyaobshegovreda/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitignore.png)
 
 ### Выводы
 
@@ -146,6 +146,4 @@
 
 ## Общие выводы по теме
 Таким образом при выполнении данной работы, я освоил установку python, pycharm, git на свой пк. Установка произведена
-успешно. Тк я уже пользовался раннее GitHub и Git они уже были более менее настроены. После изучения данной темы еще лучше
-освоил работу в консольном git, но еще раз подчеркнул для себя, что GitHub desktop более дружелюбен к пользователю
-буду пользоваться ей. Все части задания выполнены успешно.
+успешно.
