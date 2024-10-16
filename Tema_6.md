@@ -56,7 +56,7 @@ print(key, access)
 ```
 ### Результат.
 
-![Меню](images/task1.png)
+![Меню](images/lab_task1.png)
 
 ### Выводы
 
@@ -87,7 +87,7 @@ pprint(my_dict)
 ```
 ### Результат.
 
-![Меню](images/task2.png)
+![Меню](images/lab_task2.png)
 
 ### Выводы
 
@@ -112,7 +112,7 @@ print(list(result))
 ```
 ### Результат.
 
-![Меню](images/task3.png)
+![Меню](images/lab_task3.png)
 
 ### Выводы
 
@@ -135,7 +135,7 @@ personal_info(*bob)
 ```
 ### Результат.
 
-![Меню](images/task4.png)
+![Меню](images/lab_task4.png)
 
 ### Выводы
 
@@ -162,7 +162,7 @@ print(tuple_sort((5, 5, 2.1, '1', 9)))
 ```
 ### Результат.
 
-![Меню](images/task5.png)
+![Меню](images/lab_task5.png)
 
 ### Выводы
 
@@ -189,7 +189,7 @@ print(my_dict)
 ```
 ### Результат.
 
-![Меню](images/s-task1.png)
+![Меню](images/sr_task1.png)
 
 ### Выводы
 
@@ -232,7 +232,7 @@ print("Новый кортеж:", new_tuple)
 ```
 ### Результат.
 
-![Меню](images/s-task2.png)
+![Меню](images/sr_task2.png)
 
 ### Выводы
 
@@ -279,7 +279,7 @@ print("Три самых частых числа и их количество:",
 ```
 ### Результат.
 
-![Меню](images/s-task3.png)
+![Меню](images/sr_task3.png)
 
 ### Выводы
 
@@ -329,7 +329,7 @@ print("Результат:", result)
 ```
 ### Результат.
 
-![Меню](images/s-task4.png)
+![Меню](images/sr_task4.png)
 
 ### Выводы
 
@@ -372,7 +372,7 @@ print(result3)  # Ожидаемый результат: (-5, -3, -1, 0, 2)
 
 ### Результат.
 
-![Меню](images/s-task5.png)
+![Меню](images/sr_task5.png)
 
 ### Выводы
 
