@@ -377,7 +377,7 @@ gardener.harvest()
 ### Результат.
 
 ![Меню](images/sr_1.png)
-![Меню](images/sr_1.png)
+![Меню](images/sr_2.png)
 ![Меню](images/sr_3.png)
 ![Меню](images/sr_4.png)
 ![Меню](images/sr_5.png)
